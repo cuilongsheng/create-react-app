@@ -1,5 +1,5 @@
 # create-react-app
-`Record a create-react-app trip I took
+` ``Record a create-react-app trip I took
 I just wanted to build a small project and test something small, but it got really bumpy!
 
 1, npx create-react-app my-app, yarn eject, (Just me)
@@ -305,4 +305,4 @@ app.listen(base.mock.port, () => {
 });
 
 
-My little demo can test file uploads, implement some mock interfaces, and of course, that's not all the code, so I'm going to push the rest of the code in the future, and if you happen to see it, don't go, just slap it or fork it; thanks`
+My little demo can test file uploads, implement some mock interfaces, and of course, that's not all the code, so I'm going to push the rest of the code in the future, and if you happen to see it, don't go, just slap it or fork it; thanks` ``
