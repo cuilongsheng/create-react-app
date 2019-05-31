@@ -1,5 +1,6 @@
 # create-react-app
-` ``Record a create-react-app trip I took
+```javascript
+Record a create-react-app trip I took
 I just wanted to build a small project and test something small, but it got really bumpy!
 
 1, npx create-react-app my-app, yarn eject, (Just me)
